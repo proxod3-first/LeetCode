@@ -1,6 +1,5 @@
 def f():
-    print("dddd")
-
+    print("Hello")
 
 
 f()
