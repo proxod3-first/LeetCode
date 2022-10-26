@@ -1,6 +1,6 @@
-def new_func():
+def f():
     print("dddd")
 
 
 
-new_func()
+f()
